@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: lightblue;
+    height: 50px;
+    text-align: center;
+    padding: 50px;
+
+}
+header a{
+    border: 1px solid black;
+    border-radius: 20%;
+    font-size: 30px;
+    padding: 50px;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+nav a{
+    background-color: yellowgreen;
+    border-radius: 50%;
+    padding: 10px;
+    border: 3px solid green;
+
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background-color: cadetblue;
+    margin-top: 20px;
+}
+
+
+
+
